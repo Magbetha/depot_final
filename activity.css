@@ -1,0 +1,11 @@
+.container{
+    max-height: fit-content;
+    max-width: 1200px;
+    margin: auto;
+    overflow: auto;
+}
+.gallery{
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+}
